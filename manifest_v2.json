@@ -1,7 +1,7 @@
 {
   "item": {
     "id": "979805910591",
-    "restype": "quick_app",
+    "restype": "watchface",
     "name": "「方寸」",
     "description": "「方寸」—— 简而不凡",
     "preview": [
@@ -10,7 +10,7 @@
       "画板 3.png",
       "画板 4.png"
     ],
-    "icon": "LOGO.png",
+    "icon": "画板 6.png",
     "cover": "画板 1.png",
     "author": [
       {
