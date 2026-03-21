@@ -1,0 +1,50 @@
+{
+  "item": {
+    "id": "979805910591",
+    "restype": "quick_app",
+    "name": "「方寸」",
+    "description": "「方寸」—— 简而不凡",
+    "preview": [
+      "画板 1.png",
+      "画板 2.png",
+      "画板 3.png",
+      "画板 4.png"
+    ],
+    "icon": "LOGO.png",
+    "cover": "画板 1.png",
+    "author": [
+      {
+        "name": "ChiHuan0807",
+        "bindABAccount": true
+      },
+      {
+        "name": "点击跳转购买",
+        "bindABAccount": false,
+        "author_url": "https://ifdian.net/item/9b7eb276253611f19cb552540025c377"
+      }
+    ]
+  },
+  "links": [
+    {
+      "icon": "coins",
+      "title": "购买链接",
+      "url": "https://ifdian.net/item/9b7eb276253611f19cb552540025c377"
+    },
+    {
+      "icon": "link-simple-break",
+      "title": "我的米坛主页",
+      "url": "https://www.bandbbs.cn/members/466030/"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "「方寸」.face"
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "「方寸」.face"
+    }
+  },
+  "ext": {}
+}
