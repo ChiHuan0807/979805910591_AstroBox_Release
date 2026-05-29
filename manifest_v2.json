@@ -1,6 +1,6 @@
 {
   "item": {
-    "id": "979805910591",
+    "id": "979858830307",
     "restype": "watchface",
     "name": "「方寸」",
     "description": "「方寸」—— 简而不凡",
@@ -19,31 +19,25 @@
       },
       {
         "name": "点击跳转购买",
-        "bindABAccount": false,
-        "author_url": "https://ifdian.net/item/9b7eb276253611f19cb552540025c377"
+        "bindABAccount": true
       }
     ]
   },
   "links": [
     {
       "icon": "coins",
-      "title": "购买链接",
+      "title": "点击跳转购买",
       "url": "https://ifdian.net/item/9b7eb276253611f19cb552540025c377"
-    },
-    {
-      "icon": "link-simple-break",
-      "title": "我的米坛主页",
-      "url": "https://www.bandbbs.cn/members/466030/"
     }
   ],
   "downloads": {
-    "xmb10": {
+    "o66": {
       "version": "1.0.0",
-      "file_name": "「方寸」.face"
+      "file_name": "「方寸」_1.1.3.bin"
     },
-    "xmb10nfc": {
+    "o66nfc": {
       "version": "1.0.0",
-      "file_name": "「方寸」.face"
+      "file_name": "「方寸」_1.1.3.bin"
     }
   },
   "ext": {}
